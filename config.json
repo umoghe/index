@@ -1,4 +1,4 @@
 {
-    "dl": "http://ec2-13-56-12-221.us-west-1.compute.amazonaws.com:8083/api/v1/crates",
-    "api": "http://ec2-13-56-12-221.us-west-1.compute.amazonaws.com:8083"
+    "dl": "http://localhost:8083/api/v1/crates",
+    "api": "http://localhost:8083"
 }
